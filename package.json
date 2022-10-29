@@ -1,0 +1,23 @@
+{
+  "name": "vai-project-2-version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShashankP29/VAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShashankP29/VAI/issues"
+  },
+  "homepage": "https://github.com/ShashankP29/VAI#readme",
+  "dependencies": {
+    "googleapis": "^108.0.1"
+  }
+}
